@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Uber Rider Clone</string>
+    <string name="looking_for_the_rider_app">LOOKING FOR THE RIDER APP?</string>
+    <string name="looking_for_the_uber_app">LOOKING FOR THE UBER APP?</string>
+    <string name="partner">PARTNER</string>
+    <string name="rider">RIDER</string>
+    <string name="u_b_e_r">U B E R</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="please_register">Please use email id to Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="please_enter_email_address">Please Enter Email Address</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="password_too_short">Password too Short!</string>
+    <string name="please_enter_name">Please Enter Name</string>
+    <string name="please_enter_phone">Please Enter Phone</string>
+    <string name="registration_sucessful">Registration Successful !!!</string>
+    <string name="failed_to_register">Failed to Register</string>
+    <string name="failed_to_login">Failed to Login</string>
+    <string name="login">Login</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="you_are_offline">You are Offline</string>
+    <string name="you_are_online">You are Online</string>
+    <string name="you">You</string>
+    <string name="this_device_is_not_supported">This device is not Supported</string>
+    <string name="user">USER</string>
+    <string name="go">GO</string>
+    <string name="enter_a_pick_location">Enter a pick Location</string>
+    <string name="direction_api_key">AIzaSyAVskjjVS53g3O1VklYnEev5Y-6xk3zUEw</string>
+    <string name="pick_up_location">PickUp Location</string>
+    <string name="your_location">Your Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
